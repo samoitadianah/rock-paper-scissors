@@ -1,0 +1,1 @@
+This is a simple game of Rock, Paper and Scissors. Just to know the basic functions of javascript and trying them out.
